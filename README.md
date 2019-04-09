@@ -6,7 +6,9 @@ I have implemented in databricks for faster execution which uses spark as backen
 
 Dataset used is the INRIA dataset.
 I have trained the network on the subset of INRIA dataset.
+
 Dataset link :-> http://pascal.inrialpes.fr/data/human/  (After the Negative Windows Section)
+
 I am not able to upload the dataset because it is large in size (Approx 1GB).
 
 Repo contains :-
